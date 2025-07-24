@@ -1,4 +1,4 @@
-# 💻 Java DSA Practice
+# 💻 Java DSA Practice.
 
 Welcome to my Java DSA practice repository! This repo contains structured solutions to commonly asked Java DSA questions, organized topic-wise for easy learning.
 
