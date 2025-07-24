@@ -8,8 +8,8 @@ Welcome to my Java DSA practice repository! This repo contains structured soluti
 
 | No. | Topic Name      | Description                                |
 |-----|------------------|--------------------------------------------|
-| 01  | [Basics](./01_Basic)         | Java syntax, input/output, first program |
-| 02  | [Loops](./02_loop)           | for, while, do-while, print patterns     |
+| 01  | [Basics](./02_Basic)         | Java syntax, input/output, first program |
+| 02  | [Loops](./01_loop)           | for, while, do-while, print patterns     |
 | 03  | [Functions](./Function)      | Method creation, parameters, return      |
 | 04  | [Conditionals](./04_Conditionals) | if-else, switch case                |
 | 05  | [Arrays](./05_Arrays)         | 1D arrays, searching, max-min           |
