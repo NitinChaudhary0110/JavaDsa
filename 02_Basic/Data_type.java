@@ -1,6 +1,8 @@
 public class Data_type {
     public static void main(String args[]){
 
+//                                     Primitive Data Type In Java
+
          // (1)byte  --> 1byte
 
        System.out.println(Byte.MIN_VALUE);//-128
